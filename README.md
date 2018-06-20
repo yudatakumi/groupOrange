@@ -6,8 +6,7 @@
 ze3E14
 murakami
 <HEAD>
-<h1>ファッション</h1>
+たちつてと
 =======
-
+zd3E12からのプルリク
 >>>>>>> a912276a7beb9f3d2615fa4ef31f38debbc5d2f5
-<title>グループオレンジ</title>
